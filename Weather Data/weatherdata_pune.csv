@@ -1,0 +1,8 @@
+Temp,Weather,Wind,Direction,Humidity,Barometer,Visibility
+19 °C,Clear.,No wind,Wind blowing from 0° North to South,90%,1013 mbar,4 km
+21 °C,Passing clouds.,No wind,Wind blowing from 0° North to South,83%,1013 mbar,4 km
+20 °C,Passing clouds.,No wind,Wind blowing from 0° North to South,87%,1014 mbar,4 km
+25 °C,Passing clouds.,No wind,Wind blowing from 0° North to South,68%,1013 mbar,4 km
+27 °C,Passing clouds.,6 km/h,Wind blowing from 90° East to West,58%,1010 mbar,10 km
+29 °C,Partly sunny.,7 km/h,Wind blowing from 90° East to West,51%,1010 mbar,10 km
+27 °C,Partly sunny.,6 km/h,Wind blowing from 110° East-southeast to West-northwest,61%,1014 mbar,10 km
